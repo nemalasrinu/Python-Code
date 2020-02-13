@@ -1,0 +1,6 @@
+1. Python is an lern easy.
+2. Python's elegant syntax and dynamic typing.
+3. Python is a interpreted language
+4. Python is used in many areas to developing applications.
+5. Python is a open source library.
+6. Python is also suitable as an extension language for customizable applications.
